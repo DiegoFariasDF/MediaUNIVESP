@@ -9,3 +9,4 @@ if media >= 5:
     print("Você foi aprovado, PARABENS!")
 else:
     print("Você reprovou")
+    #teste
